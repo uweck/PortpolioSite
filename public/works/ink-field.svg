@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-label="Ink Field">
+  <rect width="1400" height="1000" fill="#F4F1EC"/>
+  <path d="M120 180 C360 80 520 320 700 240 C880 160 980 80 1280 140 L1220 860 C900 780 720 920 480 840 C240 760 160 620 120 180 Z" fill="#1A2422"/>
+  <circle cx="980" cy="420" r="70" fill="#C97B4A"/>
+</svg>

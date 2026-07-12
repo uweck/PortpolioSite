@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1300" viewBox="0 0 1300 1300" role="img" aria-label="Tide Line">
+  <rect width="1300" height="1300" fill="#CFE0DC"/>
+  <path d="M0 400 Q200 320 400 400 T800 400 T1200 400 T1300 380" fill="none" stroke="#2F4A45" stroke-width="18"/>
+  <path d="M0 560 Q200 480 400 560 T800 560 T1200 560 T1300 540" fill="none" stroke="#2F4A45" stroke-width="12" opacity="0.7"/>
+  <path d="M0 720 Q200 640 400 720 T800 720 T1200 720 T1300 700" fill="none" stroke="#2F4A45" stroke-width="8" opacity="0.45"/>
+  <circle cx="980" cy="980" r="140" fill="#F2E6D0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400" role="img" aria-label="Quiet Room">
+  <rect width="1000" height="1400" fill="#D9D5CE"/>
+  <rect x="180" y="220" width="640" height="860" fill="#F7F5F1"/>
+  <rect x="180" y="220" width="640" height="48" fill="#2C3A36"/>
+  <rect x="260" y="360" width="280" height="12" fill="#8A9088"/>
+  <rect x="260" y="400" width="200" height="8" fill="#B0B5AE"/>
+  <rect x="260" y="440" width="240" height="8" fill="#B0B5AE"/>
+  <rect x="560" y="700" width="180" height="240" fill="#A8B5A4"/>
+</svg>
