@@ -68,6 +68,20 @@ export const works = [
 		year: '2026',
 		medium: 'Illustration',
 	},
+	{
+		id: 'little-prince',
+		title: 'The Little Prince',
+		file: 'little-prince.png',
+		year: '2026',
+		medium: 'Illustration',
+	},
+	{
+		id: 'in-the-field-of-red-flowers',
+		title: 'In the Field of Red Flowers',
+		file: 'in-the-field-of-red-flowers.png',
+		year: '2026',
+		medium: 'Illustration',
+	}	
 ]
 
 export function getWorkById(id) {
