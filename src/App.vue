@@ -4,7 +4,7 @@ import SiteLayout from './components/SiteLayout.vue'
 </script>
 
 <template>
-  <SiteLayout>
-    <RouterView />
-  </SiteLayout>
+	<SiteLayout>
+		<RouterView />
+	</SiteLayout>
 </template>
