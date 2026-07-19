@@ -27,9 +27,9 @@ export const works = [
 		medium: 'Illustration',
 	},
 	{
-		id: 'couple',
-		title: 'Couple',
-		file: 'couple.jpg',
+		id: 'sibling',
+		title: 'Sibling',
+		file: 'sibling.jpg',
 		year: '2026',
 		medium: 'Illustration',
 	},
